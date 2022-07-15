@@ -4,5 +4,15 @@
         <page name='0-Welcome'/>
         <page name='1-Linear Time Example 1'/>
         <page name='2-Linear Time Example 2'/>
+        <page name='3-Constant Time Example 1'/>
+        <page name='4-Constant Time Example 2'/>
+        <page name='5-Quadratic Time Example 1'/>
+        <page name='6-Rule 1 Drop Constants'/>
+        <page name='7-Rule 2 Drop Non-Dominant'/>
+        <page name='8-Rule 3 Add vs Multiply (Different Inputs)'/>
+        <page name='9-Challenge 1'/>
+        <page name='10-Challenge 2'/>
+        <page name='11-Challenge 3'/>
+        <page name='12-Summary'/>
     </pages>
 </playground>
